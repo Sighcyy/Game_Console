@@ -24,6 +24,9 @@ Today was a bad day for me. Firstly, I wanted to look into the nuances of how th
 
 
 # July 2nd, 2025
-All research today. I wanted to make sure I had to get my right measurements and found all my footprints for my buck converter and my audio amp. Additionally, I found a 3D model for all my parts so that I could use them to make my case properly. I had to find exactly all the right parts that I was going to use in the process, so I made a folder with all the links to buying the parts and downloading the reference CAD models. 
+All research today. I wanted to make sure I had to get the right measurements and found all my footprints for my buck converter and my audio amp. Additionally, I found a 3D model for all my parts so that I could use them to make my case properly. I had to find exactly all the right parts that I was going to use in the process, so I made a folder with all the links to buying the parts and downloading the reference CAD models. 
+
+![image](https://github.com/user-attachments/assets/bae6c026-d5ea-457e-991e-20224d2aa3f0)
+
 
 
