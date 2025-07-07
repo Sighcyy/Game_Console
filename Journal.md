@@ -17,4 +17,13 @@ I also took this opportunity to make a rough sketch of what my PCB would look li
 # July 1st, 2025
 Today was a bad day for me. Firstly, I wanted to look into the nuances of how the display would function and how the power supply and audio. I looked into these mainly because I wanted to make sure that I was performing all the new things as I wanted them to work. I found that I would need to make sure that I was getting a constant supply of power from the battery pack, so I needed a buck converter. From this, I learned that this project was a little harder than I thought. Additionally, I wanted good sound quality, so I had to find an audio amp. This process of just learning and finding the footprints and saving them, was what took so long. Additionally, I realized I may not have enough digital pins in order to get this project done because the LED would be taking 26 pins. That was the biggest time waster; however, I found that not all pins were being used. So I found a table telling me which ones I can still use. Not much was done for the CAD or the PCB, so I included some pictures of my research and some websites I was using to prepare for the building.
 
+![Screenshot 2025-07-06 221041](https://github.com/user-attachments/assets/7818d9b6-9c82-4a7e-be69-02a29f32cb5f)
+![Screenshot 2025-07-06 221140](https://github.com/user-attachments/assets/e5ac784a-4566-436a-b0b0-a9f4307f28ca)
+![Screenshot 2025-07-06 221104](https://github.com/user-attachments/assets/026b5222-1dc5-42f3-bf4b-586a3f24fc23)
+
+
+
+# July 2nd, 2025
+All research today. I wanted to make sure I had to get my right measurements and found all my footprints for my buck converter and my audio amp. Additionally, I found a 3D model for all my parts so that I could use them to make my case properly. I had to find exactly all the right parts that I was going to use in the process, so I made a folder with all the links to buying the parts and downloading the reference CAD models. 
+
 
