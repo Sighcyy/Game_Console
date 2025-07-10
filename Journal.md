@@ -15,7 +15,7 @@ I also took this opportunity to make a rough sketch of what my PCB would look li
 
 
 # July 1st, 2025
-Today was a bad day for me. Firstly, I wanted to look into the nuances of how the display would function and how the power supply and audio. I looked into these mainly because I wanted to make sure that I was performing all the new things as I wanted them to work. I found that I would need to make sure that I was getting a constant supply of power from the battery pack, so I needed a buck converter. From this, I learned that this project was a little harder than I thought. This process of just learning and finding the footprints and saving them, was what took so long. Additionally, I realized I may not have enough digital pins in order to get this project done because the LED would be taking 26 pins. That was the biggest time waster; however, I found that not all pins were being used. So I found a table telling me which ones I can still use. Not much was done for the CAD or the PCB, so I included some pictures of my research and some websites I was using to prepare for the building.
+Today was a bad day for me. Firstly, I wanted to look into the nuances of how the display would function and how the power supply and audio would work. I looked into these mainly because I wanted to make sure that I was performing all the new things as I wanted them to work. I found that I needed to ensure a constant power supply from the battery pack, so I required a buck converter. From this, I learned that this project was a little harder than I thought. This process of just learning and finding the footprints, and saving them was what took so long. Additionally, I realized I may not have enough digital pins in order to get this project done because the LED would be taking 26 pins. That was the biggest time waster; however, I found that not all pins were being used. So I found a table telling me which ones I can still use. Not much was done for the CAD or the PCB, so I included some pictures of my research and some websites I was using to prepare for the building.
 
 ![Screenshot 2025-07-06 221041](https://github.com/user-attachments/assets/7818d9b6-9c82-4a7e-be69-02a29f32cb5f)
 ![Screenshot 2025-07-06 221140](https://github.com/user-attachments/assets/e5ac784a-4566-436a-b0b0-a9f4307f28ca)
@@ -24,13 +24,22 @@ Today was a bad day for me. Firstly, I wanted to look into the nuances of how th
 
 
 # July 2nd, 2025
-All research today. I found a 3D models for all my parts so that I could use them to make my case properly. I had to find exactly all the right parts that I was going to use in the process, so I made a folder with all the links to buying the parts and downloading the reference CAD models. 
+All research today. I found 3D models for all my parts so that I could use them to make my case properly. I had to find exactly all the right parts that I was going to use in the process, so I made a folder with all the links to buying the parts and downloading the reference CAD models. 
 
 ![image](https://github.com/user-attachments/assets/bae6c026-d5ea-457e-991e-20224d2aa3f0)
 
 
 # July 3rd, 2025
-Today is where I wanted to start making my CAD model and making the design somewhat unique. 
+Today is where I wanted to start making my CAD model and making the design somewhat unique. Firstly, I didn't want to use audio, mainly because I looked for an LED screen that came with a headphone jack. I wanted to embrace a minimalist design look that is somewhat complex in appearance. Additionally, a buck converter would be unnecessary since I was delivering the right amount of voltage needed by the screen. Meaning I was done with my PCB and I started my PCB 3D model, so everything would be added so I can start making my case. 
 
+![Screenshot 2025-07-09 194822](https://github.com/user-attachments/assets/b6c4e04a-c924-422e-bd9a-4329f22ed4d0)
+
+
+![Screenshot 2025-07-09 195436](https://github.com/user-attachments/assets/52386e67-c864-4840-960d-db5699e806a5)
+
+
+
+# July 6th, 2025
+I was out with family for July 4 and came back kinda late today. I thought I start making the case just a little bit. 
 
 
