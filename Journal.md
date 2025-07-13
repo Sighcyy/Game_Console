@@ -40,6 +40,19 @@ Today is where I wanted to start making my CAD model and making the design somew
 
 
 # July 6th, 2025
-I was out with family for July 4 and came back kinda late today. I thought I start making the case just a little bit. 
+I was out with my family for the July 4th holiday and came back a bit late today. I wanted to start making the case. Mostly the bottom layer
+
+<img width="1848" height="1203" alt="Screenshot 2025-07-10 205707" src="https://github.com/user-attachments/assets/b4fa6b3b-21c8-4ebd-9617-84ca983d8b34" />
+
+
+# July 7th, 2025
+Whole lot of changes today. Firstly, I wrote down a list of my pros and cons of my console. I hated all the cons, so I went down trying to fix all of them. Firslty was the battery. I wanted it to be rechargeable, so I switched to a lithium-ion battery and a boost converter. On top of that, these would be easier to wire onto the bottom of the Raspberry PI Zero 2. Next, I hated how long it was, so I changed the sizing of the PCB to make it better for myself and cheaper overall by making it under 100x100. I started to build the new case, and it was coming out a lot better. Finally, I hated how, when I was making the case rotary encoder would stick out. I thought that it would make things annoying, so I removed it. For my schematic I'll have to also document another way to show how I am soldering the wires to the bottom of the Micro Controller, but that is a plan for tomorrow along with making some sort of compartment for the battery and the boost converter.
+
+<img width="2090" height="1169" alt="Screenshot 2025-07-12 214837" src="https://github.com/user-attachments/assets/3cff467f-c676-4636-b45d-a6329eb671de" />
+<img width="1001" height="1044" alt="Screenshot 2025-07-12 144829" src="https://github.com/user-attachments/assets/d15ed4de-7edc-40d6-82b3-ad34798098a6" />
+<img width="1634" height="1218" alt="Screenshot 2025-07-12 214920" src="https://github.com/user-attachments/assets/9636149f-08f6-46b2-8875-7c7105c39fcf" />
+<img width="1146" height="1125" alt="Screenshot 2025-07-12 214902" src="https://github.com/user-attachments/assets/2c6da0d1-9bfb-4d69-b04c-d0409a8e1a72" />
+
+
 
 
