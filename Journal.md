@@ -54,5 +54,13 @@ Whole lot of changes today. Firstly, I wrote down a list of my pros and cons of 
 <img width="1146" height="1125" alt="Screenshot 2025-07-12 214902" src="https://github.com/user-attachments/assets/2c6da0d1-9bfb-4d69-b04c-d0409a8e1a72" />
 
 
+# July 10th, 2025
+I spent a whole lot of time today working on the CAD model today. I created a place for the battery and the boost converter, and the whole for it on the case. Additionally, I tried my best to minimize size wherever I can, so I spent a lot of time on that
 
 
+<img width="1170" height="1244" alt="Screenshot 2025-07-19 110511" src="https://github.com/user-attachments/assets/48d8982d-7a95-4221-a3f7-0e7f12cf77bd" />
+
+
+
+# July 11th, 2025
+I finished the whole CAD Model and began the easier part. A search for a community-built emulator for retro games. I found it super quick and it turned to be a software called Retro Pie. It would help configure most of my buttons as well so the firmware section got super easy for me.
