@@ -63,4 +63,9 @@ I spent a whole lot of time today working on the CAD model today. I created a pl
 
 
 # July 11th, 2025
-I finished the whole CAD Model and began the easier part. A search for a community-built emulator for retro games. I found it super quick and it turned to be a software called Retro Pie. It would help configure most of my buttons as well so the firmware section got super easy for me.
+I finished the whole CAD Model and began the easier part. A search for a community-built emulator for retro games. I found it super quick and it turned to be a software called Retro Pie. It would help configure most of my buttons as well so the firmware section got super easy for me. I also finished some schematic and had to create my own way to showcase how I would be soldering to the bottom of the Pi.
+
+<img width="2304" height="1728" alt="Boost to Pi" src="https://github.com/user-attachments/assets/65bb66a0-6caf-44e8-ba34-505002f7a634" />
+<img width="1634" height="1218" alt="Screenshot 2025-07-12 214920" src="https://github.com/user-attachments/assets/3c0f122b-cd40-4c9b-9b4d-94fba6c51f99" />
+<img width="2193" height="1222" alt="Screenshot 2025-07-20 155823" src="https://github.com/user-attachments/assets/676ae63e-a5a5-4a8b-a742-446bef8bbc18" />
+
