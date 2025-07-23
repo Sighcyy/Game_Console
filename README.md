@@ -4,6 +4,14 @@ This handmade retro handheld console combines old-school charm with modern conve
 
 <img width="1069" height="1203" alt="Screenshot 2025-07-23 143433" src="https://github.com/user-attachments/assets/5ccf721c-487e-4537-8b09-7ea75f5eed5f" />
 
+
+
+# Project Goal
+The goal of my third project was to explore the concept of portability, including LED screens and rechargeable batteries. I won't lie, I faced a lot of problems because of the items that I chose, which caused it to take a lot of time. However, this experience has made me better at creating portable devices. My future inventions would be easier to implemnt such things
+
+
+
+
 # BOM
 <img width="2474" height="916" alt="Screenshot 2025-07-23 143046" src="https://github.com/user-attachments/assets/d22bae10-2724-4966-8192-15482611e57a" />
 
