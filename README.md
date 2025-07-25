@@ -18,8 +18,9 @@ Firmware & Emulation: Leveraged RetroPie, a community-supported emulator platfor
 
 Custom Soldering Documentation: Created unique schematic visualizations to document the process of soldering wires to the underside of the Raspberry Pi Zero 2 WH for a clean internal layout.
 
+<img width="983" height="1174" alt="Screenshot 2025-07-25 135507" src="https://github.com/user-attachments/assets/6f09e782-c5d7-4cd8-b18d-d02a8ff54f60" />
 
-<img width="1096" height="1128" alt="Screenshot 2025-07-23 144946" src="https://github.com/user-attachments/assets/fe78bf8c-2157-43e7-b5d1-35f90f3e4c16" />
+
 
 
 
@@ -35,14 +36,18 @@ The goal of this project is to create a fully functional, portable retro gaming 
 
 
 # CAD
-<img width="1766" height="1124" alt="Screenshot 2025-07-23 145151" src="https://github.com/user-attachments/assets/2c20488f-0fa0-478b-80a7-86e6ab00bfb5" />
 
-<img width="1971" height="1177" alt="Screenshot 2025-07-23 145127" src="https://github.com/user-attachments/assets/b3d938d6-e30f-4dc5-9174-ad5926f9a899" />
+<img width="1939" height="1175" alt="Screenshot 2025-07-25 135457" src="https://github.com/user-attachments/assets/4b016e26-2e73-4d4f-8afa-f43dbc298e90" />
+<img width="1034" height="1103" alt="Screenshot 2025-07-25 135446" src="https://github.com/user-attachments/assets/b3ae2894-5541-4add-9a85-f8c479457cb4" />
 
 
-# PCB and Shcematic
+
+# PCB and Shcematic and Wiring
 <img width="1635" height="792" alt="Screenshot 2025-07-20 155654" src="https://github.com/user-attachments/assets/5aac271e-d651-4c88-8da9-9748f8be80b7" />
 <img width="1001" height="1044" alt="Screenshot 2025-07-12 144829" src="https://github.com/user-attachments/assets/65fc5153-ddfe-4172-96ea-457ada974b02" />
+
+
+<img width="1230" height="841" alt="Screenshot 2025-07-25 140116" src="https://github.com/user-attachments/assets/c6c56656-0d93-415f-a685-312709c9337b" />
 
 
 # Firmware
