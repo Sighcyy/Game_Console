@@ -1,6 +1,22 @@
 # Game_Console
 
-This handmade retro handheld console combines old-school charm with modern convenience. It features a vibrant 3.5" display, tactile push buttons for a responsive feel, and a built-in rechargeable battery for portable play. Designed without sound for a distraction-free experience, each unit is finished with custom artwork, making every console unique.
+This project is a custom-built, minimalist handheld game console inspired by the iconic Game Boy Color. Designed from the ground up, it features a compact PCB, a high-quality 3.5” LED display, and a rechargeable lithium-ion battery system—all housed in a sleek, ergonomically designed enclosure.
+
+# Project Overview
+After completing two previous electronics projects focused primarily on PCB design and signal routing, I wanted to expand my skills by creating a fully portable device with a display and physical controls. The goal was to build a retro-style gaming device capable of running classic games like Pokémon, Tetris, and Super Mario while embracing a clean and minimalist aesthetic.
+
+Key design decisions included using the Raspberry Pi Zero 2 WH as the main processing unit due to its compact size and emulation capabilities, and choosing an LED screen without integrated audio to simplify the design. The power system was upgraded to a rechargeable lithium-ion battery paired with a boost converter, allowing efficient voltage regulation and easy wiring underneath the Pi board.
+
+Technical Highlights
+Compact PCB Layout: Designed under 100x100 mm for cost-effective manufacturing and compactness.
+
+Component Integration: Custom 3D CAD modeling to accommodate the battery, boost converter, microcontroller, and display, ensuring precise fit within a custom enclosure.
+
+Minimalist Design: Removed unnecessary components such as the rotary encoder to maintain a streamlined, user-friendly form factor.
+
+Firmware & Emulation: Leveraged RetroPie, a community-supported emulator platform that supports extensive button configuration, simplifying software setup.
+
+Custom Soldering Documentation: Created unique schematic visualizations to document the process of soldering wires to the underside of the Raspberry Pi Zero 2 WH for a clean internal layout.
 
 
 <img width="1096" height="1128" alt="Screenshot 2025-07-23 144946" src="https://github.com/user-attachments/assets/fe78bf8c-2157-43e7-b5d1-35f90f3e4c16" />
@@ -8,7 +24,7 @@ This handmade retro handheld console combines old-school charm with modern conve
 
 
 # Project Goal
-The goal of my third project was to explore the concept of portability, including LED screens and rechargeable batteries. I won't lie, I faced a lot of problems because of the items that I chose, which caused it to take a lot of time. However, this experience has made me better at creating portable devices. My future inventions would be easier to implemnt such things
+The goal of this project is to create a fully functional, portable retro gaming console that captures the nostalgic feel of classic handheld devices like the Game Boy Color. This involves designing a compact, cost-effective PCB layout under 100x100 mm that integrates the Raspberry Pi Zero 2 WH, a 3.5” LED display, power components, and physical controls. A minimalist yet ergonomic enclosure is developed through precise 3D CAD modeling to securely house all parts while maintaining a sleek form factor. The project also aims to implement a reliable rechargeable power system using a lithium-ion battery and boost converter for consistent voltage delivery. By leveraging open-source emulation software like RetroPie, the console supports a wide range of classic games with easily configurable controls, simplifying the firmware side of the build. Finally, clear documentation of the hardware assembly, including custom wiring and soldering techniques, ensures the design is reproducible and ready for future enhancements.
 
 
 
