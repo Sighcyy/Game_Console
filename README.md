@@ -2,7 +2,10 @@
 
 This project is a custom-built, minimalist handheld game console inspired by the iconic Game Boy Color. Designed from the ground up, it features a compact PCB, a high-quality 3.5” LED display, and a rechargeable lithium-ion battery system—all housed in a sleek, ergonomically designed enclosure.
 
+
 # Project Overview
+Total Time Spent: ~18 hours
+
 After completing two previous electronics projects focused primarily on PCB design and signal routing, I wanted to expand my skills by creating a fully portable device with a display and physical controls. The goal was to build a retro-style gaming device capable of running classic games like Pokémon, Tetris, and Super Mario while embracing a clean and minimalist aesthetic.
 
 Key design decisions included using the Raspberry Pi Zero 2 WH as the main processing unit due to its compact size and emulation capabilities, and choosing an LED screen without integrated audio to simplify the design. The power system was upgraded to a rechargeable lithium-ion battery paired with a boost converter, allowing efficient voltage regulation and easy wiring underneath the Pi board.
